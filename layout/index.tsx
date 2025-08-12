@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
-import Head from "next/head";
-import Link from "next/link";
-import React from "react";
 import { Geist, Geist_Mono } from "next/font/google";
+
+import React from "react";
+import Link from "next/link";
+import Head from "next/head";
 
 import "../styles/globals.css";
 
